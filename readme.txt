@@ -21,6 +21,9 @@
 # 4. tables and figures
 #---------------------------
 
+# Real data application
+## KLIPS data is available upon request.
+
 
 # 1. case 1: varying sample size
 source("./sample-size.R")
