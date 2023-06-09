@@ -22,7 +22,8 @@
 #---------------------------
 
 # Real data application
-## KLIPS data is available upon request.
+## Binary outcome using Muscatine Coronary Risk Factor Study (MCRF) data.
+## Continuous outcome using KLIPS data. KLIPS data is available upon request.
 
 
 # 1. case 1: varying sample size
